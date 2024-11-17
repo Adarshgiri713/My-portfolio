@@ -27,7 +27,7 @@ const Resume = () => {
             and skills.
           </p>
           <a
-            href="https://in.docworkspace.com/d/sIBCb08DLAaq2-bQG?sa=cl"
+            href="https://in.docworkspace.com/d/sIAib08DLAaeu6bkG?sa=601.1123"
             className="resume-download-btn"
             download
           >

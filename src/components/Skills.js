@@ -15,11 +15,11 @@ const Skills = () => {
       <ul className="skills-list">
         <li>
           <FontAwesomeIcon icon={faCode} className="mr-2" />
-          React js
+          React js/React+vite
         </li>
         <li>
           <FontAwesomeIcon icon={faCode} className="mr-2" />
-          JavaScript
+          JavaScript ES6
         </li>
         <li>
           <FontAwesomeIcon icon={faCode} className="mr-2" />
@@ -43,7 +43,7 @@ const Skills = () => {
         </li>
         <li>
           <FontAwesomeIcon icon={faLaptopCode} className="mr-2" />
-          MongoDB
+          GitHub
         </li>
         <li>
           <FontAwesomeIcon icon={faLaptopCode} className="mr-2" />C Programming
@@ -58,7 +58,7 @@ const Skills = () => {
         </li>
         <li>
           <FontAwesomeIcon icon={faLaptopCode} className="mr-2" />
-          .net
+          Visual studio Code
         </li>
         {/* Add more skills as needed */}
       </ul>

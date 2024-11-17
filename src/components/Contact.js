@@ -34,10 +34,10 @@ const Contact = () => {
           <FontAwesomeIcon icon={faGithub} className="contact-icon" />
           GitHub
         </li>
-        <li>
+        {/* <li>
           <FontAwesomeIcon icon={faPhone} className="contact-icon" />
           7318218322
-        </li>
+        </li> */}
       </ul>
     </section>
   );

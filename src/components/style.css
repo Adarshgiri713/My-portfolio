@@ -129,6 +129,7 @@ body {
 .card-text {
   font-size: 1.2rem;
   color: #555;
+  background-color: gainsboro;
 }
 
 /* Resume Section Styles */

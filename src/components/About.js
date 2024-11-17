@@ -23,9 +23,11 @@ const About = () => {
           <p className="section-description mt-4">
             I am a skilled Front-end developer with over 1+ years of hands-on
             experience in Front-end development. My expertise includes using
-            technologies such as React js, JavaScript ES6, HTML, CSS, and
-            Bootstrap & Nodejs. As a problem solver, I have successfully
+            technologies such as React js/React+vite, JavaScript ES6, HTML, CSS,
+            Bootstrap, SQL & Nodejs. As a problem solver, I have successfully
             designed and developed user-friendly, responsive web applications.
+            Let's connect and explore exciting opportunities in the world of web
+            development
           </p>
         </div>
       </div>

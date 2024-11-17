@@ -71,9 +71,11 @@ span {
 
 .ml-auto {
   margin-right: 20px;
+  display: inline;
 }
 .sr-only{
   justify-content: right;
+  display: row;
 }
 
 /* Font Awesome Icons */

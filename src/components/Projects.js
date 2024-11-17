@@ -1,5 +1,5 @@
 // Projects.js
-import React from "react";
+import { React } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCode } from "@fortawesome/free-solid-svg-icons";
 import Breadcrumbs from "./Breadcrumbs";
@@ -23,7 +23,9 @@ const Projects = () => {
         <div className="col-md-6">
           <div className="card mb-4">
             <div className="card-body">
-              <h5 className="card-title">Livescraper</h5>
+              <h5 className="card-title">
+                Livescraper, https://livescraper.com/
+              </h5>
               <p className="card-text">
                 Designed the UI and implemented CSS styling for the website,
                 optimizing performance and design across all pages, maintainance
@@ -32,7 +34,23 @@ const Projects = () => {
             </div>
           </div>
         </div>
+        {/* edusity */}
+        <div className="col-md-6">
+          <div className="card mb-4">
+            <div className="card-body">
+              <h5 className="card-title">Edusity, https://devadarsh.netlify.app/</h5>
+              <p className="card-text">
+                Our cutting-edge curriculum is designed to empower students with
+                the knowledge, skills, and experiences to needed excel in the
+                dynamic field of education.
+                Used: React+vite, Nodejs & CSS3
+              </p>
+            </div>
+          </div>
+        </div>
+
         {/* Project 2 */}
+        {/* edusity */}
         <div className="col-md-6">
           <div className="card mb-4">
             <div className="card-body">
